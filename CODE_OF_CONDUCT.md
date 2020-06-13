@@ -32,7 +32,7 @@ Organization Leadership have the right and responsibility to remove, edit, or re
 
 ### Scope
 
-This Code of Conduct applies both within our organization spaces and in public spaces when an individual is representing the organization or its community. Examples of representing a this organization or community include using an official organization e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of the organization may be further defined and clarified by project maintainers.
+This Code of Conduct applies both within our organization spaces and in public spaces when an individual is representing the organization or its community. Examples of representing this organization or community include using an official organization e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of the organization may be further defined and clarified by project maintainers.
 
 ### Enforcement
 
